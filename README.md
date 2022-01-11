@@ -7,3 +7,4 @@
   
 ## log 
 - 2022-01-07 Repository 생성
+- 2022-01-11 Eclipse remote
